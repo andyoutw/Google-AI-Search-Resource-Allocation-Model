@@ -16,5 +16,5 @@ Instead of just increasing word count or repeating specs, the model focuses on p
 For the complete step-by-step woodworking case study, GSC indexing logs, and primary screenshot evidence, please refer to the full articles:
 包含完整時間對照、GSC 檢索軌跡與真實木工實驗（Woodworking Case Study）的圖文觀測日誌，請參閱主網域完整文章：
 
-* 🇬🇧 **English Deep Research:** [How First-Hand Expertise Changes Google AI Search Answers (L-800)](https://www.liying.tw/first-hand-expertise-google-ai-search-woodworking-case-study-l800/)
-* 🇹🇼 **繁體中文深度實驗：** [第一手經驗如何改變Google AI 搜尋的答案？真實木工網站實證 (L-808)](https://www.liying.tw/google-ai-search-real-world-woodworking-experiments-l808/)
+* 🇬🇧 **English Deep Research:** [How First-Hand Expertise Changes Google AI Search Answers: A Real-World Woodworking Case Study L-800](https://www.liying.tw/first-hand-expertise-google-ai-search-woodworking-case-study-l800/)
+* 🇹🇼 **繁體中文深度實驗：** [Google AI Search 落地實驗：一位木工老師如何用第一手經驗研究 AI 搜尋？｜L-808](https://www.liying.tw/google-ai-search-real-world-woodworking-experiments-l808/)
