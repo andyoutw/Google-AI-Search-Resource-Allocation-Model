@@ -1,3 +1,6 @@
+
+* **創作者 (Author):** [歐志賢 (Andy Ou) - 15 年 IT 資訊人與 15 年木工職人雙重背景](https://www.liying.tw/andy-ou-dr-oh-google-ai-search-black-box-research-l001/)。
+
 # A Cost-Driven Resource Allocation Model for Google AI Search (AIO)
 
 This repository contains the core frameworks for understanding Google AI Overviews (AIO) and AI Mode through the lens of resource allocation, query depth, and sufficient source selection. 
@@ -31,3 +34,4 @@ This repository serves as the structural framework. For full experimental logs, 
 
 * **English Deep Research:** [Google AI Search & AIO Case Studies (liying.tw)](https://www.liying.tw/first-hand-expertise-google-ai-search-woodworking-case-study-l800/)
 * **繁體中文深度實驗：** [Google AI 搜尋黑箱拆解與實證 (liying.tw)](https://www.liying.tw/google-ai-search-real-world-woodworking-experiments-l808/)
+
